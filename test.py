@@ -154,3 +154,12 @@ for i in range(3):
     else:
         print("error")    
 print("anda a lavar")
+
+
+#listas python
+
+
+
+numero =[1,25,14,3,15,9,2,6]
+numero.remove(25)
+print(numero)
