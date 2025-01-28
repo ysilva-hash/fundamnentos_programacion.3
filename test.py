@@ -143,23 +143,25 @@
      
 #     print( total)    
 
-contraseña=1234
+# contraseña=1234
 
-print("ingrese su contraseña")
-for i in range(3):
-    cont= int(input())
-    if contraseña ==cont:
-        print("contraseña correcta")
-        break
-    else:
-        print("error")    
-print("anda a lavar")
+# print("ingrese su contraseña")
+# for i in range(3):
+#     cont= int(input())
+#     if contraseña ==cont:
+#         print("contraseña correcta")
+#         break
+#     else:
+#         print("error")    
+# print("anda a lavar")
 
 
 #listas python
 
 
 
-numero =[1,25,14,3,15,9,2,6]
-numero.remove(25)
-print(numero)
+# numero =[1,25,14,3,15,9,2,6]
+# numero.remove(25)
+# print(numero)
+
+
